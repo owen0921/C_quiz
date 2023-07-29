@@ -1,0 +1,17 @@
+Cadillac Fleetwood  10.4   8 472.0 205 
+Lincoln Continental 10.4   8 460.0 215 
+Chrysler Imperial   14.7   8 440.0 230 
+Fiat 128            32.4   4  78.7  66 
+Honda Civic         30.4   4  75.7  52 
+Toyota Corolla      33.9   4  71.1  65 
+Toyota Corona       21.5   4 120.1  97 
+Dodge Challenger    15.5   8 318.0 150 
+AMC Javelin         15.2   8 304.0 150 
+Camaro Z28          13.3   8 350.0 245 
+Pontiac Firebird    19.2   8 400.0 175 
+Fiat X1-9           27.3   4  79.0  66 
+Porsche 914-2       26.0   4 120.3  91 
+Lotus Europa        30.4   4  95.1 113 
+Ferrari Dino        19.7   6 145.0 175 
+Maserati Bora       15.0   8 301.0 335 
+Volvo 142E          21.4   4 121.0 109 
